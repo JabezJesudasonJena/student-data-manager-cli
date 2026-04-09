@@ -14,7 +14,9 @@ A simple Python command-line application to manage a list of student names and t
 
 1.Show the Student List
 2.Add a Student
-Choose an option:
+Choose an option: 
+
+and this will output the cli results
 
 
 
